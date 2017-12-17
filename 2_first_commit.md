@@ -90,4 +90,4 @@
   My screen will be: <br />
   ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/git_server_2.png "git server 2")
   - Now you can see file "README.md" in your repository.
-  
+  - Yay!!! We have created a file, commited it into "local git", and pushed it into "git server".

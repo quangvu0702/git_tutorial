@@ -2,7 +2,6 @@
 This tutorial contains tutorials that help people who completely new to git familiar with common git's commands. 
 
 1. Introduction:
-
    - Create git account on https://github.com.
    - Create a new repository on git. 
    - Download you repository to your local machine.

@@ -1,11 +1,12 @@
 # git_tutorial
-This tutorial contains tutorials that help people familiar with common git's commands. 
+This tutorial contains tutorials that help people who completely new to git familiar with common git's commands. 
 
 1. Introduction:
+
    - Create git account on https://github.com.
    - Create a new repository on git. 
    - Download you repository to your local machine.
- 
+   
 2. First_commit:
    - Create new files.
    - Create new folders.
@@ -13,20 +14,20 @@ This tutorial contains tutorials that help people familiar with common git's com
    - Push your files and folder to server git.
    
 3. Modify_file:
-  - Modify a file.
-  - Commit modified file to local git.
-  - Push the committed file to server git.
-  
+   - Modify a file.
+   - Commit modified file to local git.
+   - Push the committed file to server git.
+   
 4. New_brand:
    - Create new brand.
    - Checkout to new brand.
    - Create new files, and modify new file.
    - Commit to local git.
    - Push new brand to server git.
-
+   
 5. Create Pull Request:
    - Create pull request from brand create in part 4 into master.
-
+   
 6. Create a conflict:
    - Create new brand.
    - Modify the files that have been modify in part 4.
@@ -46,10 +47,10 @@ This tutorial contains tutorials that help people familiar with common git's com
 9. Create pull request to other's repository.
    - Do part 2, 3, 4.
    - Create pull request to remote repository.
-  
+   
 10. Update Fork:
-   - Pull remoter Fork to our local machine.
-   - Commit and push to our git. 
+    - Pull remoter Fork to our local machine.
+    - Commit and push to our git. 
    
   
  

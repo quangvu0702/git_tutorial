@@ -6,6 +6,7 @@ This tutorial contains tutorials that help people who completely new to git fami
    - Create git account on https://github.com.
    - Create a new repository on git. 
    - Download you repository to your local machine.
+   - (Option) Add public key to your git account - Git will not request you username add password every time you push or commit after you add your public key.
    
 2. First_commit:
    - Create new files.

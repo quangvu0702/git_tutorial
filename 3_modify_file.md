@@ -55,6 +55,9 @@
    ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/git_server_4.png "git server 4")
    - Warning: because our file "README.md" is in format md. We cannot see the new line. 
    But we will see "The first file will be commit. The second line wil be commited." in the same line. It is ok. Don't worry.
+   
+   - Now you can create new repository, add files, modify files, add files, commit files to "local git" and push files to "git server". Next step we learn to create a branch, and know why we need to create new branch.
+   
  4. Your exercise is create new files, then commit to "local git" then push to "git server.
     - Hint: 
     ```

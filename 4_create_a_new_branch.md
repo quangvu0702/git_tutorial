@@ -87,10 +87,10 @@
    ```
    git push origin hello-adele
    ```
-   This is result of whole process:
    ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/whole_process.png "git whole process")
    
    - Now we know how to create new branch. 
-   - Let see what we have on git server:
-   ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/git_server_5.png "git whole process")
+   - Let see what we have on git server: Yay we have a new branch. <br />
+   
+   ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/git_server_5.png "git whole server 5")
   

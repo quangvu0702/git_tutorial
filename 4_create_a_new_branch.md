@@ -81,16 +81,18 @@
    - Commit to local git:
    ```
    git commit -m 'add hello.txt to new branch'
-6. Push new brand to server git.
    ```
+6. Push new brand to server git.
+   
    - Push to git server:
    ```
    git push origin hello-adele
    ```
-   ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/whole_process.png "git whole process")
+   
+   ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/whole_process.png "git process")
    
    - Now we know how to create new branch. 
    - Let see what we have on git server: Yay we have a new branch. <br />
    
-   ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/git_server_5.png "git whole server 5")
+   ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/git_server_5.png "images")
   

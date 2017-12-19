@@ -5,6 +5,11 @@
   - Commit new files and folders to you local git.
   - Push your files and folder to server git.
   - Example at: https://github.com/quangvu0702/hello-world
+  
+After you clone repository "hello-world", in you computer will have folder "hello-world", go inside the folder "hello-world".
+```
+cd hello-world
+```
 1. Create new files:
    - In the previous 1_introduction.md we have create a git repository "hello-world" and clone it to local.
    - Now we have folder "hello-world" in you local. Create a file name "README.md" in folder "hello-world"

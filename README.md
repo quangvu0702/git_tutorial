@@ -1,5 +1,5 @@
 # git_tutorial
-This tutorial help people who are completely new to git to get familiar with common git's commands. 
+This tutorial helps people who are completely new to git to get familiar with common git's commands. 
 
 1. Introduction:
    - Create a git account on https://github.com.

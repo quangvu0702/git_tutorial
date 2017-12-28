@@ -66,7 +66,7 @@ cd hello-world
   ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/git_status_3.png "git status 3")
   - The file "README.md" have been indexed and tracked by git. We can see two untracked files: "files/" and "images/".
   This means all files in folders "files/" and "images/" are untracked. 
-  This signifies that "local git" don't know anything about these files regarding both the content and status.
+  This signifies that "local git" doesn't know anything about these files regarding both the content and status.
   - We need to commit new files and folders to local git: After indexing files, we copy the indexed files to the "local repo" or "local git".
   ```
   git commit -m "This is a basic commit message."

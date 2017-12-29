@@ -68,7 +68,7 @@ https://github.com/quangvu0702/git_tutorial/blob/master/5%20Create%20a%20pull%20
   ```
   ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/conflict6.png)
  6 Create a pull request branch "hello-two to master.
-   - We can see a confict when we create a pull request.
+   - We can see a confict when we create a pull request: "cannot automatically merge"
    ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/conflict7.png)
    - Confict exists because git doesn't know how to merger the file "hello.txt" of branch "hello-two".
    - In the next session we will solve this conflict.

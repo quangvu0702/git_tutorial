@@ -2,6 +2,7 @@
   - When we want to merge a branch into another branch, we create a pull request.
   - In this example we have the branch named "hello-adele" with file 'hello.txt'. We want to merge the branch named "hello-adele" to branch "master".
 1. Create a pull request:
+
    - We go to "git server" on ours browser. In my case is "https://github.com/quangvu0702/hello-world". 
    ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/PR1.png "PR1")
    - We can see that we have 2 branches. Click on the link inside the green cicle as the image showed to see which branches we have.

@@ -21,3 +21,15 @@
    - Click on the button "Merge pull request" to merge the branch "hello-adele" to "master":
    ![](https://github.com/quangvu0702/git_tutorial/blob/master/images/PR7.png "PR2")
    - These are all the steps to create a pull request.
+2. Update "local git" ofter merge pull request:
+   - We have just merged branch "hello-adele" to "master".
+   - Let "checkout out" to branch "master"
+   ```
+   git checkout master
+   ```
+   - And check contents of folder "hello-world": we only see one file README.md. Where is file "hello.txt"?
+   - The "pull request" only effect "server git". Contents have been updated in "server git". We have to update to our "local git" by command:
+   ```
+   git pull origin master
+   ```
+   - Now we can see that file "hello.txt" is now in our local machine.
